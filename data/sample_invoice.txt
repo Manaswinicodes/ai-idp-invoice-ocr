@@ -1,0 +1,6 @@
+Invoice No: INV-1023
+Date: 12/09/2024
+Vendor: ABC Technologies Pvt Ltd
+Total Amount: ₹18,500
+GST: ₹2,850
+Invoice Amount: ₹21,350
