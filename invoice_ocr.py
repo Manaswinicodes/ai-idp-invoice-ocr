@@ -1,10 +1,3 @@
-
-"""
-Invoice OCR pipeline:
-- Extract text using Tesseract OCR
-- Identify key fields using regex
-- Convert to structured JSON
-"""
 import pytesseract
 from PIL import Image
 import re
